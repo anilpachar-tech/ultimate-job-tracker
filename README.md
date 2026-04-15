@@ -3,7 +3,7 @@
 AI-powered job search platform with auto-apply, professor database, and interview prep.
 
 ## 🚀 Live Demo
-🔗 [Click here to view live app](https://your-link-here.streamlit.app)
+🔗 [Click here to view live app]([https://ultimate-job-tracker.streamlit.app/])
 
 ## ✨ Features
 - 🤖 AI Resume Matching (ATS Score)
@@ -18,9 +18,6 @@ AI-powered job search platform with auto-apply, professor database, and intervie
 - PyPDF2 (Resume Parsing)
 - PIL/Pytesseract (OCR)
 - AI Matching Algorithm
-
-## 📸 Screenshots
-[Add screenshots here]
 
 ## 🏆 Achievements
 - 500+ Lines of Production Code
