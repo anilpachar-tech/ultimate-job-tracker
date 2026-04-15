@@ -28,7 +28,8 @@ AI-powered job search platform with auto-apply, professor database, and intervie
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-🧠 Development Approach
+
+## 🧠 Development Approach
 
 **Concept & Architecture by:** Anil Pachar  
 **Code & Implementation:** Human + AI Collaboration
@@ -57,4 +58,3 @@ In today's rapid development environment, using AI as a coding assistant allows 
 4. **Deliver production-ready products** (Deployed & Working)
 
 **Transparency:** I believe in being honest about using AI tools as they are now integral to software development, just like Stack Overflow or Documentation.
-
